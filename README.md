@@ -19,7 +19,7 @@ This repository contains solutions to homework assignments related to DOM manipu
 - Порахує кількість категорій у `ul#categories`.
 - Виведе заголовок кожної категорії (`h2`) і кількість вкладених елементів (`li`).
 
-**Файл:** [`task-1.js`](./task-1.js)
+📁 **Файл:** [`task-1.js`](./js/task-1.js)
 
 ---
 
@@ -29,7 +29,7 @@ This repository contains solutions to homework assignments related to DOM manipu
 - Додає назву інгредієнта та клас `item`.
 - Додає всі елементи в `ul#ingredients` за одну операцію.
 
-**Файл:** [`task-2.js`](./task-2.js)
+📁 **Файл:** [`task-2.js`](./js/task-2.js)
 
 ---
 
@@ -39,7 +39,7 @@ This repository contains solutions to homework assignments related to DOM manipu
 - Використовує `insertAdjacentHTML()` для додавання всіх елементів за одну операцію.
 - Використовує CSS для стилізації галереї.
 
-**Файл:** [`task-3.js`](./task-3.js)
+📁 **Файл:** [`task-3.js`](./js/task-3.js)
 
 ---
 
@@ -48,7 +48,7 @@ This repository contains solutions to homework assignments related to DOM manipu
 - Лічильник збільшує/зменшує значення при кліку на кнопки.
 - Поточне значення відображається у спані.
 
-**Файл:** [`task-4.js`](./task-4.js)
+📁 **Файл:** [`task-4.js`](./js/task-4.js)
 
 ---
 
@@ -57,7 +57,7 @@ This repository contains solutions to homework assignments related to DOM manipu
 - Вставляє введений текст у `input#name-input` в `span#name-output`.
 - Якщо поле пусте, виводить "Anonymous".
 
-**Файл:** [`task-5.js`](./task-5.js)
+📁 **Файл:** [`task-5.js`](./js/task-5.js)
 
 ---
 
@@ -66,7 +66,7 @@ This repository contains solutions to homework assignments related to DOM manipu
 - При втраті фокусу перевіряє, чи введена правильна кількість символів.
 - Якщо так, додає клас `valid`, якщо ні – `invalid`.
 
-**Файл:** [`task-6.js`](./task-6.js)
+📁 **Файл:** [`task-6.js`](./js/task-6.js)
 
 ---
 
@@ -74,7 +74,7 @@ This repository contains solutions to homework assignments related to DOM manipu
 **Опис:**
 - При зміні `input#font-size-control` змінює розмір шрифту `span#text`.
 
-**Файл:** [`task-7.js`](./task-7.js)
+📁 **Файл:** [`task-7.js`](./js/task-7.js)
 
 ---
 
@@ -84,7 +84,7 @@ This repository contains solutions to homework assignments related to DOM manipu
 - Виводить об'єкт з даними форми в консоль.
 - Очищає форму після відправлення.
 
-**Файл:** [`task-8.js`](./task-8.js)
+📁 **Файл:** [`task-8.js`](./js/task-8.js)
 
 ---
 
@@ -93,7 +93,7 @@ This repository contains solutions to homework assignments related to DOM manipu
 - При кліку на `button.change-color` змінює колір `body`.
 - Виводить значення кольору у `span.color`.
 
-**Файл:** [`task-9.js`](./task-9.js)
+📁 **Файл:** [`task-9.js`](./js/task-9.js)
 
 ---
 
@@ -103,4 +103,4 @@ This repository contains solutions to homework assignments related to DOM manipu
 - Рендериться колекція `div` з випадковими кольорами.
 - "Очистити" видаляє всі створені елементи.
 
-**Файл:** [`task-10.js`](./task-10.js)
+📁 **Файл:** [`task-10.js`](./js/task-10.js)
